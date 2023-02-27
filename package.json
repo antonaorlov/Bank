@@ -2,7 +2,7 @@
   "name": "bank-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://antonaorlov.github.io/Bank",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
